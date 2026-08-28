@@ -20,7 +20,7 @@ export default function App() {
 
         <View style={styles.userInfoContainer}>
           <Text style={styles.appNameTitle}>MATH RUSH</Text>
-          <Text style={styles.developerSubText}>Developed by Developer</Text>
+          <Text style={styles.developerSubText}>Developed by Roni</Text>
         </View>
       </View>
 
