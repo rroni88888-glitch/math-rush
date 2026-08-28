@@ -26,6 +26,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "math russer"
+    "description": "math russer",
+    "extra": {
+      "eas": {
+        "projectId": "math-rush-e-kaxrsdbcoq7e-gzpve"
+      }
+    }
   }
 }
