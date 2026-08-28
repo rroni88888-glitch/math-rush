@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "math-russer-",
-    "slug": "snack-8484873e-3aa7-454b-a7ab-70fdb56aa663",
+    "name": "Math Rush",
+    "slug": "math-rush",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -16,7 +16,7 @@
       "supportsTablet": true
     },
     "android": {
-      ​"package": "com.mathrush.app",
+      "package": "com.mathrush.app",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -26,6 +26,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "math russer\n"
+    "description": "math russer"
   }
 }
